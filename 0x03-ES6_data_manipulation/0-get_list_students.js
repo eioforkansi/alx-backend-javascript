@@ -1,7 +1,7 @@
 class Student {
   constructor(id, firstName, location) {
     this.id = id;
-    this.fisrtName = firstName;
+    this.firstName = firstName;
     this.location = location;
   }
 }
