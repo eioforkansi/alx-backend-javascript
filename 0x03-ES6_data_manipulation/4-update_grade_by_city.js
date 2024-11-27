@@ -3,7 +3,7 @@
  * for a specific city with their new grade
  * @param {list} students a list of students.
  * @param {string} city a city.
- * @param {*} grades an array of “grade” objects.
+ * @param {Array} grades an array of “grade” objects.
  * @returns an array of students for a specific city with their new grade.
  */
 

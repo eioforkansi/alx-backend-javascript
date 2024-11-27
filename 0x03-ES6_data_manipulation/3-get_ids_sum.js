@@ -1,6 +1,6 @@
 /**
  * A function getStudentIdsSum that returns the sum of all the student ids.
- * @param {list} studentsa list of students
+ * @param {list} students a list of students.
  * @returnsthe sum of all the student ids.
  */
 
